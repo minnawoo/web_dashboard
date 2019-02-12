@@ -28,7 +28,7 @@ function buildMetadata(sample) {
 
 function buildGauge(sample, wfreq) {
   
-  // Enter a speed between 0 and 180
+  // Gauge level
   var level = wfreq;
 
   // Trig to calc meter point
@@ -38,7 +38,7 @@ function buildGauge(sample, wfreq) {
   var x = radius * Math.cos(radians);
   var y = radius * Math.sin(radians);
 
-  // Path: may have to change to create a better triangle
+  // Triangle for gauge pointer
   var mainPath = 'M -.0 -0.025 L .0 0.025 L ',
        pathX = String(x),
        space = ' ',
