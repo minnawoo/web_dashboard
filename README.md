@@ -1,5 +1,9 @@
 # web_dashboard
 UofT SCS Data Analytics Bootcamp's Unit 15 Assignment (Web Visualizations using Javascript, Plotly, SQLite, and Flask)
+<br><br><br>
+<strong>Please view my completed web dashboard at this link:<br>
+  - [https://belly-button-biodiversity-dshb.herokuapp.com/](https://belly-button-biodiversity-dshb.herokuapp.com/)</strong>
+<br><br>
 
 # Unit 15 | Assignment - Belly Button Biodiversity
 
@@ -26,7 +30,7 @@ Build interactive charts using Plotly.js
 
 ## Step 2 - Heroku
 
-Deploy the Flask app to Heroku using the provided sqlite file for the database.
+Deploy the Flask app to Heroku using the provided sqlite file for the database:
 
 ## Advanced Challenge Assignment (Optional)
 
